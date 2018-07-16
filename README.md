@@ -1,3 +1,3 @@
 # mysql
 
-![](image/bamazonTable.jpg)
+![](image/filename%20bamazonTable.jpg)
