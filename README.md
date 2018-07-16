@@ -1,1 +1,3 @@
 # mysql
+
+![](image/bamazonTable.jpg)
